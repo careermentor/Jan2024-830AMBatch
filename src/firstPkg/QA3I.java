@@ -1,8 +1,0 @@
-package firstPkg;
-
-public interface QA3I extends QA1I
-{
-
-	public void mQA3I();
-	
-}
