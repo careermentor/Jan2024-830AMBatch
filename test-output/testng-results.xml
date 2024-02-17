@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-10T09:18:52 IST" name="Default suite" finished-at="2024-02-10T09:18:59 IST" duration-ms="6620">
+  <suite started-at="2024-02-17T09:37:08 IST" name="Default suite" finished-at="2024-02-17T09:37:32 IST" duration-ms="23809">
     <groups>
     </groups>
-    <test started-at="2024-02-10T09:18:52 IST" name="Default test" finished-at="2024-02-10T09:18:59 IST" duration-ms="6620">
-      <class name="org.wipro.automation.uo.testCases.SignupScenario">
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.wipro.automation.uo.testCases.SignupScenario@13fd2ccd]" started-at="2024-02-10T09:18:52 IST" name="launchBrowser" finished-at="2024-02-10T09:18:57 IST" duration-ms="5233" status="PASS">
+    <test started-at="2024-02-17T09:37:08 IST" name="Default test" finished-at="2024-02-17T09:37:32 IST" duration-ms="23809">
+      <class name="org.wipro.automation.uo.testCases.SignInScenario">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.wipro.automation.uo.testCases.SignInScenario@13fd2ccd]" started-at="2024-02-17T09:37:08 IST" name="launchBrowser" finished-at="2024-02-17T09:37:21 IST" duration-ms="12326" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="tc005_validate_signup_functionality()[pri:0, instance:org.wipro.automation.uo.testCases.SignupScenario@13fd2ccd]" started-at="2024-02-10T09:18:57 IST" name="tc005_validate_signup_functionality" finished-at="2024-02-10T09:18:59 IST" duration-ms="1310" status="PASS">
+        <test-method signature="tc001_validate_signin_functionality()[pri:0, instance:org.wipro.automation.uo.testCases.SignInScenario@13fd2ccd]" started-at="2024-02-17T09:37:21 IST" name="tc001_validate_signin_functionality" finished-at="2024-02-17T09:37:32 IST" duration-ms="11360" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- tc005_validate_signup_functionality -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.wipro.automation.uo.testCases.SignupScenario@13fd2ccd]" started-at="2024-02-10T09:18:59 IST" name="closeBrowser" finished-at="2024-02-10T09:18:59 IST" duration-ms="1" status="PASS">
+        </test-method> <!-- tc001_validate_signin_functionality -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.wipro.automation.uo.testCases.SignInScenario@13fd2ccd]" started-at="2024-02-17T09:37:32 IST" name="closeBrowser" finished-at="2024-02-17T09:37:32 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-      </class> <!-- org.wipro.automation.uo.testCases.SignupScenario -->
+      </class> <!-- org.wipro.automation.uo.testCases.SignInScenario -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
